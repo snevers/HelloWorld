@@ -1,2 +1,2 @@
 # HelloWorld
-This is a good start of my github journey and I will enjoy my journey of github.
+This is a good start of my github travel and I will enjoy it.
